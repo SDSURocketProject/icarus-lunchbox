@@ -1,0 +1,61 @@
+
+**********************************************************
+Termite log, started at Tue Apr 30 16:13:37 2019
+**********************************************************
+Initalizaing SD Card
+Card Failure
+Enter your file name in the terminal
+ch1
+Failed to open
+Enter your file name in the terminal
+ch1
+Initalizaing SD Card
+Card Failure
+Enter your file name in the terminal
+cb1
+Failed to open
+Enter your file name in the terminal
+Initalizaing SD Card
+Card Failure
+Enter your file name in the terminal
+ch1
+Failed to open
+Enter your file name in the terminal
+ch2
+Initalizaing SD Card
+Card Failure
+Enter your file name in the terminal
+ch3
+Failed to open
+Enter your file name in the terminal
+Initalizaing SD Card
+Card Failure
+Enter your file name in the terminal
+ch1
+Failed to open
+Enter your file name in the terminal
+ch1
+Initalizaing SD Card
+Card Failure
+Enter your file name in the terminal
+ch2
+Failed to open
+Enter your file name in the terminal
+ch1
+Initalizaing SD Card
+Card Failure
+Enter your file name in the terminal
+ch1
+Failed to open
+Enter your file name in the terminal
+ch1
+Initalizaing SD Card
+Card Failure
+Enter your file name in the terminal
+c2
+Failed to open
+Enter your file name in the terminal
+c2
+Initalizaing SD Card
+Card Failure
+Enter your file name in the terminal
